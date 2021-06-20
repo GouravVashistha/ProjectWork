@@ -1,0 +1,16 @@
+@media only screen and (max-width: 600px) {
+    .footer-logo {
+        margin-left: 40px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .footer-logo {
+        margin-left: 225px;
+    }
+}
+
+.footer-logo img {
+    margin-left: -54px;
+    width: 350px;
+}
