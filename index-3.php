@@ -863,7 +863,7 @@ include 'conn.php';
                                 
                                 <h2><?php echo $query['product_name'];?></h2>
                                     <div class="pt-des">
-                                    <p><span>-35%</span>Starting <span>Rs.<?php echo $query['product_price'];?></span></p>
+                                    <p><span>-50%</span>Starting <span>Rs.<?php echo $query['product_price'];?></span></p>
                                     </div>
                                     <p class="slider-text"><?php echo $query['product_desc'];?></p>
                                     <a href="shop.html">Shop Now</a>
